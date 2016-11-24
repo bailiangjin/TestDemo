@@ -32,3 +32,6 @@ gen/
 
 *.apk
 *.ap_
+libs/
+src/androidTest/
+src/main/res/drawable/
